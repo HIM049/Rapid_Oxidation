@@ -1,0 +1,9 @@
+{
+    "type": "smelting",
+    "ingredient": {
+        "item": "minecraft:cut_copper"
+    },
+    "result": "minecraft:exposed_cut_copper",
+    "experience": 0.1,
+    "cookingtime": 300
+}
